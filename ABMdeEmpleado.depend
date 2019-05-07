@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1556410935 source:c:\users\bruch\desktop\abmdeempleado\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+
+1556412182 c:\users\bruch\desktop\abmdeempleado\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1556412334 source:c:\users\bruch\desktop\abmdeempleado\hardcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"hardcodeo.h"
+
+1556412334 c:\users\bruch\desktop\abmdeempleado\hardcodeo.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1556504720 source:c:\users\bruch\desktop\abmdeempleado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1556580517 source:c:\users\alumno\desktop\abm\abmdeempleado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557191272 source:e:\abm\abmdeempleado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
